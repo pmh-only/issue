@@ -1,15 +1,20 @@
-# Programming Languages
+# Programming Languages (Like Javascript)
 
-Just print "ISSUES"
+1. Just print "ISSUES"
 
 Example in JS (On browser / Node):
 ```js
 console.log('ISSUES')
 ```
 
+# Programming Languages (Like Java)
+
+1. Make class name to README
+2. Set Package name to issue (If the package is optional, you can skip 2nd step)
+
 # Data Serialization Languages (Includes languages like YAML.)
-Make "say" property to "ISSUES"
+1. Make "say" property to "ISSUES"
 
 # Non-Programming Languages (Something like HTML, Except languages like XML)
 
-Just make returning "ISSUES"
+1. Just make returning "ISSUES"
