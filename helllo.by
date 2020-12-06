@@ -1,0 +1,9 @@
+def print_message(num_of_times) {
+    for i in range(num_of_times) {
+        print("ISSUE");
+    }
+}
+
+if __name__ == "__main__" {
+    print_message(1);
+}
